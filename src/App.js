@@ -115,6 +115,10 @@ const App = () => {
 					</button>
 				</div>
 				<h3>Lights in react-three-fiber</h3>
+				<p>
+				Usage of the different Lights Sources as well as implementation of the other methods like texturing, perspective, shadows, reflectancy, shading improves realism of the 3D objects. <br />
+				<a href="mailto:abakir001@yahoo.com">abakir001@yahoo.com</a>
+				</p>
 			</div>
 			<Canvas
 				shadowMap
